@@ -1,0 +1,8 @@
+docs/
+old/
+output/
+pic.txt
+__pycache__/
+todo
+Makefile
+pelican-themes/

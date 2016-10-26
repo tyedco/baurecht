@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Alois;Keel;;Herr;
+FN:Alois Keel
+ORG;TYPE=WORK:Baurecht Keel
+TEL;TYPE=WORK:+41-52-503-84-40
+ADR;TYPE=WORK,PREF:;;Wartstr. 250;8408 Winterthur;Switzerland
+EMAIL:alois.keel@baurecht-keel.ch
+REV:20160907T142823Z
+END:VCARD
+
