@@ -1,6 +1,9 @@
 :slug: alois-keel
 :save_as: team.html
 
+Alois Keel 06. 05. 1966
+########################
+
 Ausbildung/Berufserfahrung
 ==========================
 * Matura Typus B, Wattwil/SG
@@ -18,3 +21,7 @@ Privat
 * Verheiratet mit Janine Kuster Keel
 * 3 Kinder (2001, 2004, 2007)
 * Hobbies: Familie, Berge
+
+
+.. image:: {filename}/images/weisshorn.jpg
+    :alt: Weisshorn

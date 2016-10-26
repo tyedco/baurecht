@@ -28,7 +28,7 @@ DISPLAY_CATEGORIES_ON_MENU = True
 
 MENUITEMS = [
     ('Angebot', [
-        ('Dienstleistungen', "/pages/dienstleistungsangebot.html"),
+        ('Dienstleistungen', "/pages/angebot.html"),
         ( 'Honorar', '/pages/honorar.html'),
         ]),
     ('Über uns', [
@@ -37,7 +37,7 @@ MENUITEMS = [
         #('Publikationen', '/pages/publikationen.html'),
         ]),
     ('Aktuelles', [
-        ('Herausforderungen', '/pages/herausforderungen-im-offentlichen-planungs-und-baurecht.html'),
+        ('Herausforderungen', '/pages/baurecht-ein-kind-seiner-zeit.html'),
     ]),
     ('Kontakt', '/pages/kontakt.html'),
 ]
