@@ -44,7 +44,7 @@ MENUITEMS = [
 
 #THEME = '/home/ik/olu/themes/notallmyidea'
 #THEME = '/home/ik/olu/themes/pbstr_1'
-THEME = '/home/i/olu/themes/pelican-chameleon-olu'
+THEME = 'themes/pelican-chameleon-olu'
 #BS3_THEME = 'http://bootswatch.com/flatly/bootstrap.min.css'
 
 #THEME = '/home/ik/olu/themes/basic'
