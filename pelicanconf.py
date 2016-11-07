@@ -37,8 +37,10 @@ MENUITEMS = [
         #('Publikationen', '/pages/publikationen.html'),
         ]),
     ('Aktuelles', [
-        ('Herausforderungen', '/pages/baurecht-ein-kind-seiner-zeit.html'),
-    ]),
+        ('Stichworte', '/tags.html'),
+        ('Kategorien', '/categories.html'),
+        ('Chronologisch', '/archives.html'),
+        ]),
     ('Kontakt', '/pages/kontakt.html'),
 ]
 
@@ -56,14 +58,14 @@ THEME = 'themes/pelican-chameleon-olu'
 #STATIC_PATHS = ['images', 'downloads', 'Über uns']
 STATIC_PATHS = ['images', 'downloads']
 #PAGE_PATHS = ['pages', 'Über uns']
-#PLUGIN_PATHS = ['/home/ik/olu/pelican-plugins']
+PLUGIN_PATHS = ['/home/i/olu/pelican-plugins']
 PLUGINS = [
             'minification',
-            #'sitemap', 
+            'sitemap', 
             #'gallery',
             #'thumbnailer',
             #'gravatar',
-            #'tag_cloud'
+            'tag_cloud'
             ]
 
 IMAGE_PATH = 'images'
