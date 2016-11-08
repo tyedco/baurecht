@@ -2,7 +2,7 @@
 :date: 2016-11-04 
 :category: Aktuelles
 :slug: herausforderungen
-:tags: Zürich, PBG-Revision
+:tags: Zürich, PBG-Revision, 1863
 
 Baurecht -- ein Kind seiner Zeit
 ########################################################

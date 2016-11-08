@@ -6,4 +6,5 @@ __pycache__/
 todo
 Makefile
 pelican-themes/
+pelican-plugins/
 README.rst

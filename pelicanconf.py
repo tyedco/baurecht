@@ -37,7 +37,7 @@ MENUITEMS = [
         #('Publikationen', '/pages/publikationen.html'),
         ]),
     ('Aktuelles', [
-        ('Stichworte', '/tags.html'),
+        ('Stichwörter', '/tags.html'),
         ('Kategorien', '/categories.html'),
         ('Chronologisch', '/archives.html'),
         ]),
@@ -58,7 +58,7 @@ THEME = 'themes/pelican-chameleon-olu'
 #STATIC_PATHS = ['images', 'downloads', 'Über uns']
 STATIC_PATHS = ['images', 'downloads']
 #PAGE_PATHS = ['pages', 'Über uns']
-PLUGIN_PATHS = ['/home/i/olu/pelican-plugins']
+PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = [
             'minification',
             'sitemap', 
@@ -73,6 +73,12 @@ THUMBNAIL_DIR = 'thumbs'
 THUMBNAIL_KEEP_NAME = True
 THUMBNAIL_SIZES = {'hconst': '?x150'}
 THUMBNAIL_KEEP_TREE = True
+
+# tag_cloud related stuff
+TAG_CLOUD_STEPS = 4
+TAG_CLOUD_MAX_ITEMS = 100
+TAG_CLOUD_SORTING = 'random'
+TAG_CLOUD_BADGE = True
 
 # Blogroll
 #LINKS = (

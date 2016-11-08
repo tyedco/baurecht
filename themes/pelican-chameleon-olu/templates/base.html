@@ -85,7 +85,21 @@
       </div>
 
       <div class="col-md-2">
-        {% block right_sidebar %}{% endblock %}
+        {% block right_sidebar %}
+
+    <ul class="tagcloud">
+        {% for tag in tag_cloud %}
+            <li class="tag-{{ tag.1 }}">
+                <a href="{{ SITEURL }}/{{ tag.0.url }}">
+                {{ tag.0 }}
+                    {% if TAG_CLOUD_BADGE %}
+                        <span class="badge">{{ tag.2 }}</span>
+                    {% endif %}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}
       </div>
     </div>
 
