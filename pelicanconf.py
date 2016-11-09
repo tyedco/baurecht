@@ -13,6 +13,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/Zurich'
 
 DEFAULT_LANG = u'de'
+DEFAULT_DATE_FORMAT = '%d.%m.%Y'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -22,6 +23,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 GOOGLE_ANALYTICS = 'UA-66947311-1'
 #DISQUS_SITENAME = 'olunz'
+
 
 USE_FOLDER_AS_CATEGORY = True
 DISPLAY_CATEGORIES_ON_MENU = True
@@ -78,14 +80,13 @@ THUMBNAIL_KEEP_TREE = True
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 100
 TAG_CLOUD_SORTING = 'random'
-TAG_CLOUD_BADGE = True
+#TAG_CLOUD_BADGE = True
 
 # Blogroll
-#LINKS = (
+LINKS = (
          #('Pelican', 'http://getpelican.com/'),
          #('Python.org', 'http://python.org/'),
-         #('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
+         ('Baurekursgericht Zürich', 'http://baurekursgericht-zh.ch/'),)       
 
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),

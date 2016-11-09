@@ -9,6 +9,11 @@
 {% endblock %}
 
 {% block content %}
+<#  {% from 'macro.html' import article_info with context %} #>
+<!--  {% from 'macro.html' import genurl with context %} -->
+  {{ article_info(article) }} 
+ #>
+  <hr/>
 
   <div id="article_content">
     {{ article.content }}

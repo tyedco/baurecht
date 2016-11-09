@@ -99,6 +99,17 @@
             </li>
         {% endfor %}
     </ul>
+
+        {% if LINKS %}
+                <!--<div class="widget blogroll"> -->
+                        <h3>Nützliche Internetadressen</h3>
+                        <ul>
+                        {% for name, link in LINKS %}
+                            <li><a href="{{ link }}">{{ name }}</a></li>
+                        {% endfor %}
+                        </ul>
+                <!-- </div>/.blogroll -->
+        {% endif %}
 {% endblock %}
       </div>
     </div>
