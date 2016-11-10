@@ -1,4 +1,4 @@
-:title: Herausforderungen
+:title: Der Zweck des Baurechts ändert sich
 :date: 2016-11-04 
 :category: Aktuelles
 :slug: herausforderungen
@@ -13,4 +13,4 @@ Baurecht -- ein Kind seiner Zeit
 
 Der aktuelle Regierungsrat würde sich von einer solchen Beurteilung distanzieren. Was der damalige Regierungsrat als "Übelstande" der baulichen Entwicklung bezeichnete, hat nach heutigen Massstäben zum Teil sogar den Status der Schutzwürdigkeit erreicht. Die Probleme des Jahres 1863 sind durch andere verdrängt worden, insbesondere die Frage nach dem zweckmässigen Umgang mit der knappen Ressource Boden (Stichwort Verdichtung) und den Natur- und Kulturgütern. Auf der institutionellen Ebene sind beispielsweise die zunehmende Komplexität des Rechts, der (chronisch beklagte) Vollzugsnotstand und die Verrechtlichung des Bauens in den letzten Jahren Dauerbrenner. Gerade in der Schweiz stellen wir uns im Weiteren regelmässig die Frage, inwieweit und mit welchen Instrumenten Räume durch den Staat zu planen und zu gestalten sind.
 
-Der Vergleich 1863 – 2016 verdeutlicht: Das Planungs- und Baurecht ist immer ein Kind seiner Zeit. Jedes sich stellende Problem ist zwar ernst zu nehmen, eine Ausweitung des Blicks vermag aber ein Problem häufig etwas zu relativieren, was der Lösungsfindung zuträglich ist. 
+Der Vergleich zwischen 1863 und 2016 verdeutlicht: Das Planungs- und Baurecht ist immer ein Kind seiner Zeit. Jedes sich stellende Problem ist zwar ernst zu nehmen, eine Ausweitung des Blicks vermag aber ein Problem häufig etwas zu relativieren, was der Lösungsfindung zuträglich ist. 

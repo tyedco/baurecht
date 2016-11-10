@@ -1,0 +1,1 @@
+http://variable-scope.com/posts/storing-and-verifying-passwords-with-sqlalchemy
