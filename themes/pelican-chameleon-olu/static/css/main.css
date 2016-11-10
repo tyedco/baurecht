@@ -218,6 +218,7 @@ img {
 ul.tagcloud {
   list-style: none;
     padding: 0;
+    word-spacing: 3px;
 }
 
 ul.tagcloud li {
@@ -232,7 +233,9 @@ li.tag-2 {
     font-size: 120%;
 }
 
-...
+li.tag-3 {
+    font-size: 100%;
+}
 
 ul.tagcloud .list-group-item <span>.badge {
     background-color: grey;
